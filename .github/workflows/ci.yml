@@ -31,7 +31,7 @@ jobs:
           npx allure generate ./allure-results --clean -o ./allure-report
 
       - name: 📁 Upload Allure Report as Artifact
-        uses: actions/upload-artifact@3c86c7a40c1aeb2c4e0d30c4c95efdbbcf3d48b9
+        uses: actions/upload-pages-artifact@v2
         with:
           name: allure-report
           path: ./allure-report
