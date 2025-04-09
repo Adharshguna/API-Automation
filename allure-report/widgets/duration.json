@@ -1,0 +1,1 @@
+[{"uid":"fe09be1d2de2aa97","name":"GET Request Example","time":{"start":1744226715674,"stop":1744226716915,"duration":1241},"status":"passed","severity":"normal"},{"uid":"d1f36dd9ffcbef6b","name":"GET /posts/1 should return post with id 1","time":{"start":1744227165655,"stop":1744227166411,"duration":756},"status":"passed","severity":"normal"}]

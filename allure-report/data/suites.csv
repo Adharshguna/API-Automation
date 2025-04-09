@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1241","GET Request Example","","Thu Apr 10 00:55:15 IST 2025","passed","Thu Apr 10 00:55:16 IST 2025","","api\sample-api.spec.ts","",""
+"","756","GET /posts/1 should return post with id 1","","Thu Apr 10 01:02:45 IST 2025","passed","Thu Apr 10 01:02:46 IST 2025","","api\sample-api.spec.ts","",""
